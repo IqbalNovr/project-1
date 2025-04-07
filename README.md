@@ -4,7 +4,7 @@ Ini adalah proyek untuk membuat CV satu halaman menggunakan HTML murni, sebagai 
 
 ## Demo Proyek
 
-Kamu bisa melihat hasil proyek ini di:
+Hasil project bisa liat di sini:
 🔗 [Link Demo](https://IqbalNovr.github.io/project-1)
 
 ## Teknologi yang Digunakan
@@ -15,4 +15,7 @@ Kamu bisa melihat hasil proyek ini di:
 
 ---
 
-Dibuat oleh: Iqbal
+## ✅ Project
+
+Project ini dibuat berdasarkan tantangan dari roadmap.sh:  
+[https://roadmap.sh/projects/single-page-cv](https://roadmap.sh/projects/single-page-cv)
